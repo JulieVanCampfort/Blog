@@ -16,10 +16,10 @@ body {
  height: 500px;
  opacity: 0.95;
  margin-top: -21px;
- padding-left: 10%;
+ padding-left: 5%;
 }
 h1 {
- margin-left:10%;
+ margin-left:5%;
  padding-top: 20px;
 }
 .link {
@@ -55,7 +55,11 @@ h4 {
   margin-top: 0px;
 }
 #about {
+<<<<<<< HEAD
   width: 80%;
+=======
+  width: 90%;
+>>>>>>> origin/master
   height: 300px;
   margin-left: 10%;
   background-color: white;
@@ -69,10 +73,10 @@ h4 {
 .gent {
   width: 30%;
   margin-left: 75%;
-  margin-top: -280px;
+  margin-top: -300px;
 }
 .animator {
   width: 30%;
   margin-left: 35%;
-  margin-top: -260px;
+  margin-top: -280px;
 }
