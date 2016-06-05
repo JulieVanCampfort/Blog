@@ -9,14 +9,14 @@ body {
   background-image: url(julie.JPG);
 }
 .menu {
- margin-left: 10%;
+ margin-left: auto;
  background-color: grey;
  opacity: 50%;
  width: 25%;
  height: 500px;
  opacity: 0.95;
  margin-top: -21px;
- padding-left: 10%;
+ padding-left: 5%;
 }
 h1 {
  margin-left: 8%;
